@@ -1,6 +1,6 @@
 <div align="center">
 
-![VCopilot logo](media/logo.png)
+![VCopilot logo](readme.png)
 
 </div>
 
