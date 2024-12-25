@@ -8,7 +8,7 @@
 
 <div align="center">
 
-**[VCopilot](https://sedocs.vti.com.vn) is the VTI's AI code assistant. **
+[VCopilot](https://sedocs.vti.com.vn) is the VTI's AI code assistant.
 
 </div>
 
